@@ -46,6 +46,7 @@ const Home: NextPage = () => {
             className={styles.card}
           >
             <h2>Deploy &rarr;</h2>
+            <h2>Chào các bạn đã đến với dự án của Kiên</h2>
             <p>
               Instantly deploy your Next.js site to a public URL with Vercel.
             </p>
